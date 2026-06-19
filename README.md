@@ -79,7 +79,7 @@ This analysis is based on the **Saudi Arabia Real Estate Dataset** provided by K
 
 ## 👤 Author
 
-**Ziyad Othman Al-Abduljabbar** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](linkedin.com/in/ziyad-al-abduljabbar)
+**Ziyad Othman Al-Abduljabbar** 
 
 **Year:** 2026
 
